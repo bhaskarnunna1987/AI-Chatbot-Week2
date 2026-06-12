@@ -1,0 +1,12 @@
+{
+  "greeting": "Hello! How can I help you today?",
+  "goodbye": "Goodbye! Have a great day!",
+  "thanks": "You're welcome!",
+  "python": "Python is a popular programming language used in AI and Data Science.",
+  "machine learning": "Machine Learning allows computers to learn from data.",
+  "ai": "Artificial Intelligence enables machines to mimic human intelligence.",
+  "internship": "This internship helps students gain practical experience.",
+  "help": "I can answer questions about AI, Python, and internships.",
+  "contact": "Please contact support@example.com.",
+  "project": "Projects help improve practical skills."
+}
